@@ -5,4 +5,3 @@ print("2 - Pacientes")
 print("3 - Médicos")
 print("-" * 30)
 escolha = input("No que podemos te ajudar hoje?\n")
-cavalosssss
